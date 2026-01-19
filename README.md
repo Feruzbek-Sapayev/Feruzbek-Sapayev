@@ -4,7 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feruzbek-Sapayev&theme=github_dark&show_icons=true)](https://github.com/Feruzbek-Sapayev/) [![Feruzbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Feruzbek-Sapayev&theme=github_dark&layout=compact)](https://wakatime.com/@5ded16a4-9bd6-4369-9dc5-e1159a950cbb)
 
-<a href="https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a"><img src="https://wakatime.com/badge/user/c456c315-79a0-4119-8f29-54399483d36a.svg" alt="Total time coded since Jul 15 2023" /></a>
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
