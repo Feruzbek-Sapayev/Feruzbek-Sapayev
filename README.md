@@ -2,9 +2,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feruzbek-Sapayev&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feruzbek-Sapayev&theme=github_dark&show_icons=true)](https://github.com/Feruzbek-Sapayev/) [![Feruzbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Feruzbek-Sapayev&theme=github_dark&layout=compact)](https://wakatime.com/@c5ded16a4-9bd6-4369-9dc5-e1159a950cbb)
-
-<a href="https://wakatime.com/@5ded16a4-9bd6-4369-9dc5-e1159a950cbb"><img src="https://wakatime.com/badge/user/5ded16a4-9bd6-4369-9dc5-e1159a950cbb.svg" alt="Total time coded since Jul 15 2023" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feruzbek-Sapayev&theme=github_dark&show_icons=true)](https://github.com/Feruzbek-Sapayev/) 
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
